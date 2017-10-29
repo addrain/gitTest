@@ -3,7 +3,4 @@ And this line was ADDED!!!
 
 This line will merge
 
-
-
-
-third line
+no more
