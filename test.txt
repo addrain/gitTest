@@ -2,3 +2,7 @@ This is a test file. HAHA this line is changed!!!
 And this line was ADDED!!!
 
 This line will merge
+
+Second line.
+
+third line.
