@@ -1,10 +1,1 @@
-This is a test file. HAHA this line is changed!!!
-And this line was ADDED!!!
-
-This line will merge
-
-no more. yes more
-
-added line!
-
-this is add/commit line
+This is a test file.
