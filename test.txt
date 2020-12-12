@@ -2,3 +2,4 @@ This is a test file.
 Change 1
 
 machine 2 modification
+machine 1 modification
